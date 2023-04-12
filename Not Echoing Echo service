@@ -1,0 +1,23 @@
+(base) Drews-MacBook-Pro-2:INFO314 drewgrimstead$ java TCPClient.java tcpbin.com 4242
+GET / HTTP/1.0
+
+echooooo
+or not
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
